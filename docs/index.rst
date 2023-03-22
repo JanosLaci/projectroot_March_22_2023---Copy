@@ -6,10 +6,7 @@
 Welcome to my_project's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+.. include:: modules.rst
 
 
 Indices and tables
